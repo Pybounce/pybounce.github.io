@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "pybounce.github.io",
-    "currentPage": "index.html",
+    "currentPage": "proceduralproject.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -43,7 +43,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/faucetlogo.png",
-    "mbrsiteDomain": "laqzv1pkjv",
+    "mbrsiteDomain": "1n3c88sezt",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
