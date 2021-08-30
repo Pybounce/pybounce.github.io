@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "pybounce.github.io",
-    "currentPage": "index.html",
+    "currentPage": "proceduralproject.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -51,7 +51,7 @@
     "gdpr": false,
     "uniqCompNum": 9,
     "versionPublish": "5.4.1",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
