@@ -684,7 +684,7 @@ a {
 }
 .cid-sHgzVdhyQE {
   display: flex;
-  background-image: url("../../../assets/images/p1-previmage03.png");
+  background-image: url("../../../assets/images/p1-previmage01.png");
 }
 .cid-sHgzVdhyQE .mbr-overlay {
   background-color: #ffffff;
@@ -725,11 +725,15 @@ a {
 .cid-sHgzVdhyQE .mbr-text,
 .cid-sHgzVdhyQE .mbr-section-btn {
   text-align: left;
+  color: #000000;
+}
+.cid-sHgzVdhyQE .mbr-section-title {
+  color: #232323;
 }
 .cid-sHgAJKYkaA {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #bed3f9;
+  background-color: #bbbbbb;
 }
 .cid-sHgAJKYkaA img,
 .cid-sHgAJKYkaA .item-img {
