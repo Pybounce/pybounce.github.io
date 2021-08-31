@@ -1140,6 +1140,12 @@ a {
     left: -1rem;
   }
 }
+.cid-sHGjNLi2jQ {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #141414;
+  overflow: hidden;
+}
 .cid-sHgGU1Uhr4 {
   background-image: url("../../../assets/images/p1-previmage03.png");
 }
@@ -1567,7 +1573,7 @@ a {
   }
 }
 .cid-sHFGqUscL8 {
-  padding-top: 4rem;
+  padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #141414;
 }
@@ -1615,4 +1621,10 @@ a {
 }
 .cid-sHFGqUscL8 .mbr-section-title {
   color: #ffffff;
+}
+.cid-sHGjNLi2jQ {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #141414;
+  overflow: hidden;
 }
